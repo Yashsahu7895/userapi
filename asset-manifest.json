@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/userapi/static/css/main.03629fa7.chunk.css",
+    "main.js": "/userapi/static/js/main.4b74648a.chunk.js",
+    "main.js.map": "/userapi/static/js/main.4b74648a.chunk.js.map",
+    "runtime-main.js": "/userapi/static/js/runtime-main.68ff8aa6.js",
+    "runtime-main.js.map": "/userapi/static/js/runtime-main.68ff8aa6.js.map",
+    "static/js/2.5d82190e.chunk.js": "/userapi/static/js/2.5d82190e.chunk.js",
+    "static/js/2.5d82190e.chunk.js.map": "/userapi/static/js/2.5d82190e.chunk.js.map",
+    "index.html": "/userapi/index.html",
+    "static/css/main.03629fa7.chunk.css.map": "/userapi/static/css/main.03629fa7.chunk.css.map",
+    "static/js/2.5d82190e.chunk.js.LICENSE.txt": "/userapi/static/js/2.5d82190e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68ff8aa6.js",
+    "static/js/2.5d82190e.chunk.js",
+    "static/css/main.03629fa7.chunk.css",
+    "static/js/main.4b74648a.chunk.js"
+  ]
+}

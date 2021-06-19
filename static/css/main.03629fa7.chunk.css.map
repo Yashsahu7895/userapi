@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,aACI,WAAY,CACZ,YAAa,CACb,qBAAuB,CACvB,aAAc,CACd,wBACJ,CAEA,IACI,kBACJ","file":"main.03629fa7.chunk.css","sourcesContent":[".userWrapper{\n    margin: 10px;\n    padding: 20px;\n    background-color: black;\n    color: #f5f5f5;\n    border: 1px solid #f5f5f5;\n}\n\nimg{\n    border-radius: 100%;\n}"]}
